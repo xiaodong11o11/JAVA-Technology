@@ -1,7 +1,5 @@
 ### 一、java语言基础（4天）
 
-一、java语言基础（4天）
-
       这个阶段不要用IDE，多做练习。快速的看完，大致明白即可。以后在开发中逐步熟悉与提升
       
   1、配置环境
@@ -30,18 +28,18 @@
   
         https://github.com/waylau/java-code-conventions
         
-###二、工具链熟悉（1天）
+### 二、工具链熟悉（1天）
 
       IDE，很多教学是Eclipse, 建议用IntelliJ IDEA，与pycharm一个公司的产品 
       https://github.com/judasn/IntelliJ-IDEA-Tutorial
       了解Ant、Maven，现在是推荐用Gradle 
       
-###三、java常用库的熟悉（2天）
+### 三、java常用库的熟悉（2天）
 
       jdbc、Log4j、Apache Commons、Fastjson、JUnit
       去www.oschina.net、www.iteye.com上边搜，很多资料
       
-###三、学习开发WEB项目（16天） 
+### 三、学习开发WEB项目（16天） 
 
       Java SSH（Struts Spring Hibernate）是曾经的经典web框架，不过现在：
       struts 已经被淘汰，建议使用Spring MVC。如果你们外包的公司用struts，你就哭吧
@@ -73,11 +71,11 @@
 
           https://github.com/jobbole/awesome-java-cn
           
-五、自己做一个blog（4天）
+### 五、自己做一个blog（4天）
 
           做一个blog程序，放到github上，让别人点评
           
-六、深入（4天）
+### 六、深入（4天）
 
             快速过一遍，留个印象，以后有空了慢慢看
         1、java语言深入
@@ -91,7 +89,7 @@
             TDD
             https://github.com/qibaoguang/Study-Step-by-Step
             
-七、其它参考资料：
+### 七、其它参考资料：
 
         视频教学
         http://www.maiziedu.com/course/java/
@@ -104,7 +102,7 @@
         Java Web进阶-Mybatis
         Java Web扩展-Maven
         Java Web拓展-Spring MVC
-八、看完了，多做练习，有空了把上边列的书再看一遍
+### 八、看完了，多做练习，有空了把上边列的书再看一遍
 
         培训机构的视频教学（这类的教学有点啰嗦，有些地方可以跳过去，图形(AWT、Swing等)，Java的事件处理机制，Java Applet这些都不用看）
         http://www.itcast.cn/news/20141107/10494252523.shtml
