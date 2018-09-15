@@ -2,31 +2,31 @@
 
       这个阶段不要用IDE，多做练习。快速的看完，大致明白即可。以后在开发中逐步熟悉与提升
       
-  1、配置环境
-  
-        jdk 配置与使用，配置pycharm时已经配置过了，就是设置环境变量，例如：
-        export JAVA_HOME=/work/software/jdk1.7.0_79
-        export JDK_HOME=$JAVA_HOME
-        export JRE_HOME=$JAVA_HOME/jre
-        export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib:$CLASSPATH
-        export PATH=$JAVA_HOME/bin:$JRE_HOME/bin:$PATH
-        export PATH
-        
-  2、快速了解
-  
-        http://www.cnblogs.com/happyframework/p/3332243.html
-        
-  3、Java初级知识
-  
-        http://www.code123.cc/606.html
-        
-  4、Java进阶知识（GUI相关的不用看）
-  
-        http://www.code123.cc/1001.html
-        
-  5、学习java编程规范
-  
-        https://github.com/waylau/java-code-conventions
+        1、配置环境
+
+              jdk 配置与使用，配置pycharm时已经配置过了，就是设置环境变量，例如：
+              export JAVA_HOME=/work/software/jdk1.7.0_79
+              export JDK_HOME=$JAVA_HOME
+              export JRE_HOME=$JAVA_HOME/jre
+              export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib:$CLASSPATH
+              export PATH=$JAVA_HOME/bin:$JRE_HOME/bin:$PATH
+              export PATH
+
+        2、快速了解
+
+              http://www.cnblogs.com/happyframework/p/3332243.html
+
+        3、Java初级知识
+
+              http://www.code123.cc/606.html
+
+        4、Java进阶知识（GUI相关的不用看）
+
+              http://www.code123.cc/1001.html
+
+        5、学习java编程规范
+
+              https://github.com/waylau/java-code-conventions
         
 ### 二、工具链熟悉（1天）
 
