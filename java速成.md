@@ -1,6 +1,9 @@
-一、java语言基础（4天）
+###一、java语言基础（4天）
+
       这个阶段不要用IDE，多做练习。快速的看完，大致明白即可。以后在开发中逐步熟悉与提升
+      
   1、配置环境
+  
         jdk 配置与使用，配置pycharm时已经配置过了，就是设置环境变量，例如：
         export JAVA_HOME=/work/software/jdk1.7.0_79
         export JDK_HOME=$JAVA_HOME
@@ -8,22 +11,36 @@
         export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib:$CLASSPATH
         export PATH=$JAVA_HOME/bin:$JRE_HOME/bin:$PATH
         export PATH
+        
   2、快速了解
+  
         http://www.cnblogs.com/happyframework/p/3332243.html
+        
   3、Java初级知识
+  
         http://www.code123.cc/606.html
+        
   4、Java进阶知识（GUI相关的不用看）
+  
         http://www.code123.cc/1001.html
+        
   5、学习java编程规范
+  
         https://github.com/waylau/java-code-conventions
-二、工具链熟悉（1天）
+        
+###二、工具链熟悉（1天）
+
       IDE，很多教学是Eclipse, 建议用IntelliJ IDEA，与pycharm一个公司的产品 
       https://github.com/judasn/IntelliJ-IDEA-Tutorial
       了解Ant、Maven，现在是推荐用Gradle 
-三、java常用库的熟悉（2天）
+      
+###三、java常用库的熟悉（2天）
+
       jdbc、Log4j、Apache Commons、Fastjson、JUnit
       去www.oschina.net、www.iteye.com上边搜，很多资料
-三、学习开发WEB项目（16天）
+      
+###三、学习开发WEB项目（16天） 
+
       Java SSH（Struts Spring Hibernate）是曾经的经典web框架，不过现在：
       struts 已经被淘汰，建议使用Spring MVC。如果你们外包的公司用struts，你就哭吧
       Hibernate 太重，建议看ibatis（已经改名mybatis），阿里系的在用ibatis。一样的，新手去接手Hibernate会被搞残的
