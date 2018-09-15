@@ -39,7 +39,7 @@
       jdbc、Log4j、Apache Commons、Fastjson、JUnit
       去www.oschina.net、www.iteye.com上边搜，很多资料
       
-### 三、学习开发WEB项目（16天） 
+### 四、学习开发WEB项目（16天） 
 
       Java SSH（Struts Spring Hibernate）是曾经的经典web框架，不过现在：
       struts 已经被淘汰，建议使用Spring MVC。如果你们外包的公司用struts，你就哭吧
@@ -65,11 +65,9 @@
                 介绍
                 http://www.csdn.net/article/2013-12-06/2817738-JFinal-Java-MVC-ORM-Framework
                 学习官方例子，熟悉用到的第三方库和软件
-                看别人的作品http://www.oschina.net/p/jfinalbbs
-                
-四、JAVA生态圈熟悉（1天）
-
-          https://github.com/jobbole/awesome-java-cn
+                看别人的作品http://www.oschina.net/p/jfinalbbs 
+          3、JAVA生态圈熟悉（1天）
+                 https://github.com/jobbole/awesome-java-cn
           
 ### 五、自己做一个blog（4天）
 
