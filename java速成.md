@@ -1,4 +1,4 @@
-### Markdown
+### 一、java语言基础（4天）
 
 一、java语言基础（4天）
 
@@ -68,11 +68,17 @@
                 http://www.csdn.net/article/2013-12-06/2817738-JFinal-Java-MVC-ORM-Framework
                 学习官方例子，熟悉用到的第三方库和软件
                 看别人的作品http://www.oschina.net/p/jfinalbbs
+                
 四、JAVA生态圈熟悉（1天）
+
           https://github.com/jobbole/awesome-java-cn
+          
 五、自己做一个blog（4天）
+
           做一个blog程序，放到github上，让别人点评
+          
 六、深入（4天）
+
             快速过一遍，留个印象，以后有空了慢慢看
         1、java语言深入
             Java编程思想（第4版）
@@ -84,7 +90,9 @@
             Spring boot
             TDD
             https://github.com/qibaoguang/Study-Step-by-Step
+            
 七、其它参考资料：
+
         视频教学
         http://www.maiziedu.com/course/java/
         Java 语言基础
@@ -97,6 +105,7 @@
         Java Web扩展-Maven
         Java Web拓展-Spring MVC
 八、看完了，多做练习，有空了把上边列的书再看一遍
+
         培训机构的视频教学（这类的教学有点啰嗦，有些地方可以跳过去，图形(AWT、Swing等)，Java的事件处理机制，Java Applet这些都不用看）
         http://www.itcast.cn/news/20141107/10494252523.shtml
         http://java.itcast.cn/news/e393b086/ebce/4f94/9d48/94ed86bcf5ef.shtml
